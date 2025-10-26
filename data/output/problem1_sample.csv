@@ -1,0 +1,11 @@
+log_entry,log_level
+"17/02/01 23:09:15 INFO storage.ShuffleBlockFetcherIterator: Getting 951 non-empty blocks out of 1890 blocks",INFO
+"17/02/02 03:25:07 INFO python.PythonRunner: Times: total = 283, boot = -312, init = 313, finish = 282",INFO
+"17/03/29 23:56:30 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1519",INFO
+"17/02/01 13:59:46 INFO storage.ShuffleBlockFetcherIterator: Getting 944 non-empty blocks out of 1890 blocks",INFO
+"17/03/28 18:17:07 INFO BlockManagerInfo: Added broadcast_5_piece322 in memory on mesos-master-3:50093 (size: 4.0 MB, free: 10.9 GB)",INFO
+"17/03/21 10:14:39 INFO BlockManagerInfo: Added broadcast_6_piece78 in memory on mesos-slave-28:38180 (size: 4.0 MB, free: 14.0 GB)",INFO
+"17/02/01 19:49:37 INFO storage.ShuffleBlockFetcherIterator: Getting 247 non-empty blocks out of 450 blocks",INFO
+"17/02/01 22:52:14 INFO python.PythonRunner: Times: total = 688, boot = -296, init = 297, finish = 687",INFO
+"17/02/01 21:21:07 INFO executor.Executor: Finished task 399.0 in stage 64.0 (TID 7331). 1251 bytes result sent to driver",INFO
+"17/03/21 11:49:29 INFO storage.MemoryStore: Block broadcast_5_piece325 stored as bytes in memory (estimated size 4.0 MB, free 2.7 GB)",INFO
